@@ -25,6 +25,7 @@
 ### 📊 Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WalterKor&show_icons=true&theme=dark&bg_color=0d1117&title_color=1d9e75&icon_color=1d9e75&border_color=30363d&hide_border=false)](https://github.com/WalterKor)
+![Dreamhack Categories](https://dreamhack-readme-stats.vercel.app/api/most-solved?username=WhiteCopyCat&theme=dark)
 
 <br/>
 
