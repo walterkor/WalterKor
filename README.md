@@ -18,11 +18,11 @@
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white">&nbsp   
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>&nbsp  
 </p>
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WalterKor)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=j33515)](https://solved.ac/j33515)
+![Dreamhack Stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=WhiteCopyCat&theme=dark)
 
 <!--
 **okchanho/okchanho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
