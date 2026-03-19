@@ -1,9 +1,4 @@
 <!-- WalterKor / README.md -->
-
-```
-// Humanity Engineering.
-```
-
 **Full-stack developer · Security learner · Seoul, KR**
 
 <br/>
